@@ -1,7 +1,7 @@
 # contact-app
 
 ## How To Use
-1. Open Terminal or Gitbash in Visual Studio Code
+1. Open Gitbash in Visual Studio Code
 2. Type node app, you can see app command
    <br>
   Commands:
