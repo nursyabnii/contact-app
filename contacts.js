@@ -67,7 +67,6 @@ const listContact = () => {
 
 const detailContact = (nama) => {
     const contacts = loadContact();
-
     const contact = contacts.find((contact) => contact.nama.toLowerCase() === nama.toLowerCase()
     );
 
