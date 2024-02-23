@@ -2,7 +2,8 @@
 
 ## How To Use
 1. Open Gitbash in Visual Studio Code
-2. Type node app, you can see app command
+2. Type npm install, in terminal
+3. Type node app, you can see app command
    <br>
   Commands:
     * app add       Menambahkan contact baru
